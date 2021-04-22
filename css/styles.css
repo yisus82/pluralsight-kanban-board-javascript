@@ -9,11 +9,12 @@ body {
   display: flex;
   flex-direction: column;
   font-family: Helvetica, Arial, sans-serif;
-  color: #F69C7E;
+  color: #f69c7e;
 }
 
-header, footer {
-  background-color: #F05A28;
+header,
+footer {
+  background-color: #f05a28;
   height: 60px;
   justify-content: center;
   color: white;
@@ -38,10 +39,10 @@ footer span {
 
 .list {
   width: 250px;
-  border: 1px solid #F69C7E;
+  border: 1px solid #f69c7e;
   margin: 20px;
   border-radius: 10px;
-  color: #F69C7E;
+  color: #f69c7e;
 }
 
 .list .title {
@@ -51,11 +52,12 @@ footer span {
 
 .list .item {
   padding: 5px;
-  border-bottom: 1px solid #F69C7E;
+  border-bottom: 1px solid #f69c7e;
 }
 
-.list input, button {
-  color: #F69C7E;
+.list input,
+button {
+  color: #f69c7e;
   margin-left: 5px;
 }
 
@@ -66,7 +68,7 @@ footer span {
 .heading {
   display: flex;
   flex-wrap: wrap;
-  border-bottom: 1px solid #F69C7E;
+  border-bottom: 1px solid #f69c7e;
 }
 
 .heading .title {
